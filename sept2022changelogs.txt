@@ -10,6 +10,7 @@ ak47
 -hs damage 46 -> 38
 +hipfire cone 0.024 -> 0.022
 +ADS cone 0.024 -> 0.019
++dumb zoom removed and ironsights slightly lowered out of the way of the crosshair
 
 regular shotgun
 
