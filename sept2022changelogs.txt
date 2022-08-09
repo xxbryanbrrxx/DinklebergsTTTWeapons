@@ -2,9 +2,25 @@ mp9
 
 -firedelay 0.09 -> 0.1
 -hs damage 46 -> 33
--ads cone 0.14 -> 0.2
+-ADS cone 0.14 -> 0.2
 
 ak47
 
 -firedelay 0.12 -> 0.135
 -hs damage 46 -> 38
++fire cone 0.024 -> 0.022
++ADS cone 0.024 -> 0.019
+
+regular shotgun
+
++firedelay 0.8 -> 0.75
++fire cone 0.06 -> 0.045
++magazine 6 -> 8
++pellets and damage changed from 6x8 -> 3x16 (this will make shots more consistent)
+
+pump shotgun
+
+-firedelay 0.8 -> 0.9
+-magazine size 8 -> 6
++++++fire cone 0.11 -> 0.033 (this is a 70% improvement)
++pellets and damage changed from 9*8 to 6*12 (ditto)
