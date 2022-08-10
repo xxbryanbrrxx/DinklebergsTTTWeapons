@@ -21,7 +21,7 @@ regular shotgun
 
 pump shotgun
 
--firedelay 0.8 -> 0.9
+-firedelay 0.8 -> 1.1
 -magazine size 8 -> 6
 +++++hipfire cone 0.11 -> 0.033 (this is a 70% improvement)
 +pellets and damage changed from 9*8 to 6*12 (ditto)
