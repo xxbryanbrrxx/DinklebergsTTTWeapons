@@ -30,7 +30,7 @@ luger
 
 could't get files off of main in time, so no stats to compare changes to
 0.45 firedelay
-0.008 firing cone
+0.008 hipefirecone
 8 rounds in a mag
 28 body shot dmg
 67 headshot dmg
