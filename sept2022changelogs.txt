@@ -25,3 +25,12 @@ pump shotgun
 -magazine size 8 -> 6
 +++++hipfire cone 0.11 -> 0.033 (this is a 70% improvement)
 +pellets and damage changed from 9*8 to 6*12 (ditto)
+
+luger
+
+could't get files off of main in time, so no stats to compare changes to
+0.45 firedelay
+0.008 firing cone
+8 rounds in a mag
+28 body shot dmg
+67 headshot dmg
