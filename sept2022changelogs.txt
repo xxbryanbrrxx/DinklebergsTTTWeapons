@@ -38,3 +38,16 @@ p228
 
 usp
 +magazine size 12 -> 20
+
+H.U.G.E-249
++clip size from 150 -> 200
++recoil 1.9 -> 0.9
++Hipefire cone 0.09 -> 0.03
++damage 7 -> 8 
++firedelay 0.06 -> 0.045
+
+Binoculars
++identification 5 seconds -> 0.75 seconds
+
+Visualizer
++scan delay 10 -> 2.5
