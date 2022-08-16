@@ -27,10 +27,35 @@ pump shotgun
 +pellets and damage changed from 9*8 to 6*12 (ditto)
 
 luger
-
 could't get files off of main in time, so no stats to compare changes to
 0.45 firedelay
 0.008 hipefirecone
 8 rounds in a mag
 28 body shot dmg
 67 headshot dmg
+
+Pulse Rifle
++ADS cone 0.024 -> 0.0025
++hipfire cone 0.025 -> 0.012
++damage 15 -> 16
+
+HKMP7
++ADS cone 0.012 -> 0.0001
++hipfire cone 0.025 -> 0.02
+
+AUG
++ADS cone 0.013 -> 0.003
++ADS cone 0.025 -> 0.016 
+
+H.U.G.E-249
++clip size from 150 -> 200
++recoil 1.9 -> 0.9
++Hipefire cone 0.09 -> 0.03
++damage 7 -> 8 
++firedelay 0.06 -> 0.045
+
+Binoculars
++identification 5 seconds -> 0.75 seconds
+
+Buffed Visualizer
++scan delay 10 -> 2.5
