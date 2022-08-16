@@ -1,11 +1,9 @@
 mp9
-
 -firedelay 0.09 -> 0.1
 -hs damage 46 -> 33
 -ADS cone 0.14 -> 0.2
 
 ak47
-
 -firedelay 0.12 -> 0.135
 -hs damage 46 -> 38
 +hipfire cone 0.024 -> 0.022
@@ -13,14 +11,12 @@ ak47
 +dumb zoom removed and ironsights slightly lowered out of the way of the crosshair
 
 regular shotgun
-
 +firedelay 0.8 -> 0.75
 +hipfire cone 0.06 -> 0.045
 +magazine 6 -> 8
 +pellets and damage changed from 6x8 -> 3x16 (this will make shots more consistent)
 
 pump shotgun
-
 -firedelay 0.8 -> 1
 -magazine size 8 -> 6
 +++++hipfire cone 0.11 -> 0.033 (this is a 70% improvement)
