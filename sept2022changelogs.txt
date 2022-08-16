@@ -53,5 +53,5 @@ H.U.G.E-249
 Binoculars
 +identification 5 seconds -> 0.75 seconds
 
-Buffed Visualizer
+Visualizer
 +scan delay 10 -> 2.5
